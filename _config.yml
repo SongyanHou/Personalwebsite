@@ -1,0 +1,12 @@
+# Site settings
+title: Songyan's homepage
+email: housy3@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is Songyan's personal homepage
+baseurl: "/me"
+url: "http://songyanhou.github.io" # the base hostname & protocol for your site
+twitter_username: housyCU
+github_username:  SongyanHou
+
+# Build settings
+markdown: kramdown
